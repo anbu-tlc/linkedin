@@ -36,7 +36,7 @@ public class LinkedinProfileView {
 
     /**
      * <p>
-     * Signs up with new {@link LinkedinProfile}
+     * Signs up with new {@link LinkedinProfile}.
      * </p>
      */
     private void signUp() {
