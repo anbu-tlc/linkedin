@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="exception" />
+        <module name="pojo" />
         <module name="controller" />
         <module name="view" />
         <module name="dao" />
