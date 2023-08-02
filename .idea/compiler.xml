@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="exception" />
+        <module name="pojo" />
         <module name="controller" />
         <module name="view" />
         <module name="dao" />
@@ -16,5 +17,16 @@
         <module name="validation" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="controller" target="17" />
+      <module name="dao" target="17" />
+      <module name="exception" target="17" />
+      <module name="model" target="17" />
+      <module name="pojo" target="17" />
+      <module name="post_feature" target="17" />
+      <module name="service" target="17" />
+      <module name="validation" target="17" />
+      <module name="view" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -17,6 +17,7 @@
         <module>validation</module>
         <module>model</module>
         <module>post_feature</module>
+        <module>pojo</module>
     </modules>
 
     <properties>

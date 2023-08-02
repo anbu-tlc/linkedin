@@ -42,7 +42,7 @@
                 <extensions>true</extensions>
                 <configuration>
                     <instructions>
-                        <Bundle-Activator>com.meta.view.Activator</Bundle-Activator>
+                        <Bundle-com.meta.activator.Activator>com.meta.view.com.meta.activator.Activator</Bundle-com.meta.activator.Activator>
                         <Export-Package>
                             com.meta.view*
                         </Export-Package>
